@@ -1,0 +1,1297 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14 janv. 2020, 23:07:16
+    Author     : USER
+*/
+nav{font-size:25px;
+    background-color:rgb(0,0,0);
+	font-family:cursive;
+    height:50px;
+    line-height:50px;
+    position:absolute;
+    left:100px;
+    right:100px;
+    top:200px;
+     
+}
+nav a{color:rgb(255,255,255)}
+
+nav10{
+	font-family:cursive;
+	color:red;
+	position:absolute;
+	top:200px;
+	left:200px;
+	}
+
+main{font-size:20px;
+     font-family:Time New Roman;
+     background-color:rgb(0,0,0);
+     height:30px;
+     line-height:30px;
+     position:absolute;
+     left:100px;
+     right:100px; 
+	 }
+main{color:rgb(255,255,255)}
+
+main2{font-size:20px;
+      font-family:Time New Roman;
+      background-color:black;
+	  color:white;
+      height:30px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:1870px;
+	
+	}
+	
+	main3{
+	  font-size:20px;
+      font-family: Georgia;
+      background-color:black;
+	  color:white;
+      height:300px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:1650px;
+	
+	}
+	
+	maini1{
+	  font-size:20px;
+      font-family: Georgia;
+      background-color:black;
+	  color:white;
+      height:300px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:1050px;
+	
+	}
+	
+	
+	maini2{font-size:20px;
+      font-family:Time New Roman;
+      background-color:black;
+	  color:white;
+      height:30px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:1265px;
+	
+	}
+	
+	mainf1{
+	  font-size:20px;
+      font-family: Georgia;
+      background-color:black;
+	  color:white;
+      height:300px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:2350px;
+	
+	}
+	
+	mainf2{
+	  font-size:20px;
+      font-family: Time New Roman;
+      background-color:black;
+	  color:white;
+      height:30px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:2570px;
+	
+	}
+	
+	maincc8{font-size:20px;
+      font-family:Time New Roman;
+      background-color:black;
+	  color:white;
+      height:30px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:955px;
+	
+	}
+	
+	
+	  form{
+		       position:absolute;
+			   top:300px;
+			   left:350px;
+               margin: 0 auto;
+               width: 500px;
+               padding: 1em;
+               border: 0px solid #CCC;
+               border-radius: 1em;
+           }
+		   
+		   
+		    .ibb{
+           margin-top:auto;
+           margin-left:100px; 
+        }
+	
+			div16{
+				position:absolute;
+                right:10px;
+                top:0px;
+				
+				}
+				
+				
+			div17{
+				position:absolute;
+                right:123px;
+                top:0px;
+				
+				}
+	
+	
+	
+	main12{font-size:20px;
+     font-family:Time New Roman;
+	 color:white;
+     background-color:rgb(0,0,0);
+     height:30px;
+     line-height:30px;
+     position:absolute;
+     left:100px;
+     right:100px; 
+	 top:0px;
+	 }
+main{color:rgb(255,255,255)}
+	
+	
+	main7{
+	  font-size:20px;
+      font-family: Georgia;
+      background-color:black;
+	  color:white;
+      height:300px;
+      line-height:30px;
+      position:absolute;
+      left:100px;
+      right:100px;
+	  top:740px;
+	
+	}
+	
+	
+	pic1{
+		height:1942px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    left:0px;
+		top:8px;
+		
+	}
+
+    pic2{
+		height:1942px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    right:0px;
+		top:8px;
+		
+	}
+
+    pic3{
+		height:2642px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    left:0px;
+		top:8px;
+		
+	}	
+	
+	pic4{
+		height:2642px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    right:0px;
+		top:8px;
+		
+	}
+	
+	
+	pici1{
+		height:1342px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    left:0px;
+		top:8px;
+		
+	}
+
+    pici2{
+		height:1342px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    right:0px;
+		top:8px;
+		
+	}
+	
+	
+	pic12{
+		height:1040px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    left:0px;
+		top:0px;
+		
+	}
+	
+		pic14{
+		height:1040px;
+		width:100px;
+		background-color:blue;
+		position:absolute;
+	    right:0px;
+		top:0px;
+		
+	}
+	
+	
+	faster1{
+		font-family:Gedget;
+		position:absolute;
+		top:1650px;
+		left:150px;
+		color:white;
+	}
+	
+	faster2{
+		font-family:Gedget;
+		position:absolute;
+		top:1650px;
+		left:520px;
+		color:white;
+	}
+	
+	faster3{
+		font-family:Gedget;
+		position:absolute;
+		top:1650px;
+		right:150px;
+		color:white;
+	}
+	
+	fasterf1{
+		font-family:Gedget;
+		position:absolute;
+		top:2370px;
+		left:150px;
+		color:white;
+	}
+	
+	fasterf2{
+		font-family:Gedget;
+		position:absolute;
+		top:2370px;
+		left:520px;
+		color:white;
+	}
+	
+	fasterf3{
+		font-family:Gedget;
+		position:absolute;
+		top:2370px;
+		right:160px;
+		color:white;
+	}
+	
+	
+	fasteri1{
+		font-family:Gedget;
+		position:absolute;
+		top:1060px;
+		left:150px;
+		color:white;
+	}
+	
+	
+	fasteri2{
+		font-family:Gedget;
+		position:absolute;
+		top:1060px;
+		left:520px;
+		color:white;
+	}
+	
+	
+	fasteri3{
+		font-family:Gedget;
+		position:absolute;
+		top:1060px;
+		right:150px;
+		color:white;
+	}
+	
+	fastercc1{
+		font-family:Gedget;
+		position:absolute;
+		top:750px;
+		left:150px;
+		color:white;
+	}
+	
+		fastercc2{
+		font-family:Gedget;
+		position:absolute;
+		top:750px;
+		left:520px;
+		color:white;
+	}
+	
+		fastercc3{
+		font-family:Gedget;
+		position:absolute;
+		top:750px;
+		right:150px;
+		color:white;
+	}
+	
+	
+	padding{
+		font-family:Times New Roman;
+		color:white;
+		font-size:16px;
+		width:250px;
+		text-align:justify;
+		position:absolute;
+		top:1700px;
+		left:150px
+	}	
+	
+	padding2{
+		font-family:Times New Roman;
+		color:white;
+		font-size:18px;
+		width:300px;
+		text-align:justify;
+		position:absolute;
+		top:1700px;
+		left:523px;
+	}
+	
+	padding3{
+		position:absolute;
+		top:1720px;
+		right:110px
+	}
+	
+		paddingi1{
+		font-family:Times New Roman;
+		color:white;
+		font-size:16px;
+		width:250px;
+		text-align:justify;
+		position:absolute;
+		top:1105px;
+		left:150px
+	}
+	
+	
+		paddingi2{
+		font-family:Times New Roman;
+		color:white;
+		font-size:16px;
+		width:300px;
+		text-align:justify;
+		position:absolute;
+		top:1105px;
+		left:523px
+	}
+	
+	paddingi3{
+		position:absolute;
+		top:1120px;
+		right:110px
+	}
+	
+	
+	paddingf1{
+		font-family:Times New Roman;
+		color:black;
+		font-size:16px;
+		width:400px;
+		text-align:justify;
+		position:absolute;
+		top:720px;
+		left:130px
+	}
+	
+	paddingf2{
+		font-family:Times New Roman;
+		color:black;
+		font-size:16px;
+		width:400px;
+		text-align:justify;
+		position:absolute;
+		top:1350px;
+		left:130px
+	}
+	
+	paddingf3{
+		font-family:Times New Roman;
+		color:black;
+		font-size:16px;
+		width:400px;
+		text-align:justify;
+		position:absolute;
+		top:1980px;
+		left:130px
+	}
+	
+	paddingf4{
+		font-family:Times New Roman;
+		color:white;
+		font-size:16px;
+		width:250px;
+		text-align:justify;
+		position:absolute;
+		top:2420px;
+		left:150px
+	}
+	
+	paddingf5{
+		font-family:Times New Roman;
+		color:white;
+		width:300px;
+		font-size:16px;
+		text-align:justify;
+		position:absolute;
+		top:2420px;
+		left:523px
+	}
+	
+	paddingf6{
+		position:absolute;
+		top:2435px;
+		right:110px
+	}
+	
+	paddingf7{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:363px;
+		right:125px
+	}
+	
+	paddingf8{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:543px;
+		right:125px
+	}
+	
+	paddingf10{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:726px;
+		right:125px
+	}
+	
+		paddingf11{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:912px;
+		right:125px
+	}
+	
+		paddingf12{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:1096px;
+		right:125px;
+	}
+	
+	
+		paddingf13{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:1280px;
+		right:125px;
+	}
+	
+		paddingf14{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:1465px;
+		right:125px;
+	}
+	
+		paddingf15{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:1651px;
+		right:125px;
+	}
+	
+	paddingf16{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:1836px;
+		right:125px;
+	}
+	
+		paddingf17{
+		font-family:Garamond;
+		color:black;
+		font-size:16px;
+		width:210px;
+		text-align:justify;
+		position:absolute;
+		top:2020px;
+		right:125px;
+	}
+	
+	
+		paddingcc1{
+		font-family:Times New Roman;
+		color:white;
+		font-size:16px;
+		width:250px;
+		text-align:justify;
+		position:absolute;
+		top:790px;
+		left:150px
+	}
+	
+	
+		paddingcc2{
+		font-family:Times New Roman;
+		color:white;
+		font-size:16px;
+		width:300px;
+		text-align:justify;
+		position:absolute;
+		top:790px;
+		left:523px
+	}
+	
+	paddingcc3{
+		position:absolute;
+		top:810px;
+		right:110px
+	}
+	
+	
+	
+aside{
+	vertical-align:top;
+    background-color:rgb(0,0,0);
+	min-height:500px;
+	width:35%;
+	display:inline-block;}
+	top{
+	position:absolute;
+	top:100px;
+	right:50px;
+	}
+	
+	  form{
+              margin: 0 auto;
+              width: 500px;
+              padding: 1em;
+              border: 1px solid #CCC;
+              border-radius: 1em;
+           }
+	
+	div1 {
+	font-family:Time New Roman;
+	position:absolute;
+	top:30px;
+	right:90px;
+	}
+        div2{
+            font-family: verdana;
+            color: blue;
+            width: 10px;
+            height: 10px;
+            position:absolute;
+            right:308px;
+            top:0px;
+            }
+			
+            div3
+            {
+              position:absolute;
+              top:2px;
+              right: 30px;  
+              font-family:Charcoal; 
+                }
+				
+            section
+            {
+			 position:absolute;
+             left:100px;
+             top:37px;
+                }
+             section2
+               {
+                font-family:impact;
+                position:absolute;
+                top:40px;
+                right:105px; 
+                color:blue; 
+           
+               } 
+               section3
+            {
+                position:absolute;
+                top:114px;
+                right:415px; 
+                 } 
+                 
+               section4
+               {
+                position:absolute;
+                top:114px;
+                right:310px;
+                 }   
+				 
+               section5
+               {
+                position:absolute;
+                top:114px;
+                right:205px;
+                }     
+				 
+                section6  
+                {
+                position:absolute;
+                top:114px;
+                right:100px; 
+                } 
+				 
+                section7
+                {	
+			    position:absolute;
+			    top:300px;
+				left:560px;
+				font-family:Arial Black;
+				color:white;
+				background-color:blue;
+				line-height:5px;
+                } 
+				
+				section8
+                {	
+			    position:absolute;
+			    top:730px;
+				left:577px;
+				font-family:Arial Black;
+				color:white;
+				background-color:blue;
+				line-height:5px;
+                }
+
+
+                 section9
+                {	
+			    position:absolute;
+			    top:1160px;
+				left:587px;
+				font-family:Arial Black;
+				color:white;
+				background-color:blue;
+				line-height:5px;
+                } 				
+				
+				 sectionb1
+                {	
+			    position:absolute;
+			    top:298px;
+				left:577px;
+				font-family:Arial Black;
+				color:white;
+				background-color:blue;
+				line-height:5px;
+				} 
+				
+				 sectionl1
+                {	
+			    position:absolute;
+			    top:298px;
+				left:588px;
+				font-family:Arial Black;
+				color:white;
+				background-color:blue;
+				line-height:5px;
+				} 
+				
+				 section15
+                {
+				position:absolute;
+				top:30px;
+				left:100px;
+               
+				} 
+				
+				
+            nav1{
+                background-color:Black;
+                height:10px;
+				width:460px;
+                position:absolute;
+                left:100px;
+                top:320px;
+				}
+				
+				nav2{
+                background-color:Black;
+                height:10px;
+				width:460px;
+                position:absolute;
+                right:100px;
+                top:320px;
+				
+				}
+				
+				nav3{
+                background-color:Black;
+                height:10px;
+				width:478px;
+                position:absolute;
+                left:100px;
+                top:750px;
+				}
+				
+				nav4{
+                background-color:Black;
+                height:10px;
+				width:478px;
+                position:absolute;
+                right:100px;
+                top:750px;
+				}
+				
+				nav5{
+                background-color:Black;
+                height:10px;
+				width:488px;
+                position:absolute;
+                left:100px;
+                top:1180px;
+				}
+				
+				nav6{
+                background-color:Black;
+                height:10px;
+				width:488px;
+                position:absolute;
+                right:100px;
+                top:1180px;
+				}
+				
+				navb1{
+                background-color:Black;
+                height:10px;
+				width:477px;
+                position:absolute;
+                left:100px;
+                top:320px;
+				}
+				
+				navb2{
+                background-color:Black;
+                height:10px;
+				width:477px;
+                position:absolute;
+                right:100px;
+                top:320px;
+				}
+				
+				navl1{
+                background-color:Black;
+                height:10px;
+				width:488px;
+                position:absolute;
+                right:100px;
+                top:320px;
+				}
+				
+				navl2{
+                background-color:Black;
+                height:10px;
+				width:488px;
+                position:absolute;
+                left:100px;
+                top:320px;
+				}
+				
+				
+				icon1{
+					position:absolute;
+					top:380px;
+					left:130px;
+					}
+					
+				icon2{
+					position:absolute;
+					top:380px;
+					left:500px;
+					}	
+					
+				icon3{
+					position:absolute;
+					top:380px;
+					right:130px;
+					}	
+				
+                icon4{
+					position:absolute;
+					top:810px;
+					left:130px;
+					}	
+					
+                icon5{
+					position:absolute;
+					top:810px;
+					left:500px;
+					}
+					
+                icon6{
+					position:absolute;
+					top:810px;
+					right:130px;
+					}
+                					
+				icon7{
+					position:absolute;
+					top:1240px;
+					left:130px;
+					}
+
+                    icon8{
+					position:absolute;
+					top:1240px;
+					left:500px;
+					}
+
+                    icon9{
+					position:absolute;
+					top:1240px;
+					right:130px;
+					}	
+
+				iconf1{
+					position:absolute;
+					top:1010px;
+					left:130px;
+					}	
+					
+				iconf2{
+					position:absolute;
+					top:1640px;
+					left:130px;
+					}
+					
+					iconf3{
+					position:absolute;
+					top:380px;
+					right:350px;
+					}
+					
+					iconf4{
+					position:absolute;
+					top:560px;
+					right:350px;
+					}
+					
+					iconf5{
+					position:absolute;
+					top:745px;
+					right:350px;
+					}
+				
+				iconf6{
+					position:absolute;
+					top:930px;
+					right:350px;
+					}
+					
+					iconf7{
+					position:absolute;
+					top:1115px;
+					right:350px;
+					}
+					
+					iconf8{
+					position:absolute;
+					top:1300px;
+					right:350px;
+					}
+					
+					iconf9{
+					position:absolute;
+					top:1485px;
+					right:350px;
+					}
+					
+					iconf10{
+					position:absolute;
+					top:1670px;
+					right:350px;
+					}
+					
+					iconf11{
+					position:absolute;
+					top:1855px;
+					right:350px;
+					}
+					
+					iconf12{
+					position:absolute;
+					top:2040px;
+					right:350px;
+					}
+					
+				/*==================POUR BASKET===================*/
+					iconb3{
+					position:absolute;
+					top:380px;
+					right:350px;
+					}
+					
+					iconb4{
+					position:absolute;
+					top:560px;
+					right:350px;
+					}
+					
+					iconb5{
+					position:absolute;
+					top:745px;
+					right:350px;
+					}
+				
+				iconb6{
+					position:absolute;
+					top:930px;
+					right:350px;
+					}
+					
+					iconb7{
+					position:absolute;
+					top:1115px;
+					right:350px;
+					}
+					
+					iconb8{
+					position:absolute;
+					top:1300px;
+					right:350px;
+					}
+					
+					iconb9{
+					position:absolute;
+					top:1485px;
+					right:350px;
+					}
+					
+					iconb10{
+					position:absolute;
+					top:1670px;
+					right:350px;
+					}
+					
+					iconb11{
+					position:absolute;
+					top:1855px;
+					right:350px;
+					}
+					
+					iconb12{
+					position:absolute;
+					top:2040px;
+					right:350px;
+					}
+					
+					/*====================FIN======================================*/
+					
+				/*==================LES INFORMATIONS DU PAGE KALIDOU===============*/
+				
+				iconk1{
+					position:absolute;
+					top:300px;
+					left:310px;
+					}
+					
+				iconk2{
+					position:absolute;
+					top:1200px;
+					left:145px;
+					}
+					
+				iconk3{
+					position:absolute;
+					top:1200px;
+					right:145px;
+					}
+					
+				iconk4{
+					position:absolute;
+					top:1200px;
+					left:395px;
+					}
+					
+				iconk5{
+					position:absolute;
+					top:1200px;
+					right:400px;
+					}
+					
+			    paddingk1{
+		            font-family:Times New Roman;
+		            color:black;
+		            font-size:16px;
+		            text-align:justify;
+					margin: 0 auto;
+                    width:570px;
+                    padding: 1em;
+                    border: 2px solid #CCC;
+                    border-radius: 1em;
+		            position:absolute;
+		            top:810px;
+		            left:310px
+	                    }
+						
+				paddingk6{
+		            font-family:Garamond;
+		            color:black;
+		            font-size:16px;
+		            text-align:justify;
+					margin: 0 auto;
+                    width:180px;
+                    padding: 1em;
+                    border: 2px solid #CCC;
+                    border-radius: 1em;
+		            position:absolute;
+		            top:1390px;
+		            left:140px;
+	                     }
+						 
+				paddingk7{
+		            font-family:Garamond;
+		            color:black;
+		            font-size:16px;
+		            text-align:justify;
+					margin: 0 auto;
+                    width:180px;
+                    padding: 1em;
+                    border: 2px solid #CCC;
+                    border-radius: 1em;
+		            position:absolute;
+		            top:1390px;
+		            left:395px;
+	                     }
+
+                paddingk8{
+		            font-family:Garamond;
+		            color:black;
+		            font-size:16px;
+		            text-align:justify;
+					margin: 0 auto;
+                    width:180px;
+                    padding: 1em;
+                    border: 2px solid #CCC;
+                    border-radius: 1em;
+		            position:absolute;
+		            top:1390px;
+		            right:400px;
+	                     }	
+
+                 paddingk9{
+		            font-family:Garamond;
+		            color:black;
+		            font-size:16px;
+		            text-align:justify;
+					margin: 0 auto;
+                    width:180px;
+                    padding: 1em;
+                    border: 2px solid #CCC;
+                    border-radius: 1em;
+		            position:absolute;
+		            top:1390px;
+		            right:145px;
+	                     }						 
+				
+				
+				
+				
+				
+				/*======================FIN=======================================*/
+				editor1{					
+                position:absolute;
+                top:640px;
+                left:135px;			
+				}	
+				
+				editor2{
+					position:absolute;
+					top:660px;
+					left:125px;
+					}	
+					
+				editor3{
+				position:absolute;
+                top:640px;
+                left:495px;				
+				}
+				
+                editor4{
+				position:absolute;
+                top:660px;
+                left:500px;				
+				}	
+        
+                editor5{
+				position:absolute;
+                top:640px;
+                right:137px;				
+				}		
+				
+				editor6{
+				position:absolute;
+                top:660px;
+                right:200px;				
+				}
+				
+				editor7{
+					position:absolute;
+                    top:1070px;
+                    left:130px;
+					}
+					
+			    editor8{
+					position:absolute;
+                    top:1090px;
+                     left:200px;
+					}
+					
+                editor9{
+					position:absolute;
+                    top:1070px;
+                    right:489px;
+					}	
+     
+                editor10{
+					position:absolute;
+                    top:1090px;
+                    right:520px;
+					}	
+                    
+                editor11{
+					position:absolute;
+                    top:1070px;
+                    left:860px;
+					}
+                
+                 editor12{
+					position:absolute;
+                    top:1090px;
+                    left:900px;
+					}				
+					
+				 editor13{
+					position:absolute;
+                    top:1500px;
+                    left:110px;
+					}
+					
+				 editor14{
+					position:absolute;
+                    top:1520px;
+                    left:110px;
+					}
+					
+				  editor15{
+					position:absolute;
+                    top:1500px;
+                    left:482px;
+					}	
+					
+				editor16{
+					position:absolute;
+                    top:1520px;
+                    left:530px;
+					}	
+				editor17{
+					position:absolute;
+                    top:1500px;
+                    left:857px;
+					}
+   
+                editor18{
+					position:absolute;
+                    top:1520px;
+                    left:860px;
+					}

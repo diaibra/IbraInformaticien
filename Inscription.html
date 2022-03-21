@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+     <head>
+        <title>Page_Inscription</title>
+        <meta charset="UTF-8">
+     	<link rel="stylesheet" type="text/css" href="..\Pages_css\Style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		  <style> 
+           form{
+		       position:absolute;
+			   top:300px;
+			   left:350px;
+               margin: 0 auto;
+               width: 500px;
+               padding: 1em;
+               border: 1px solid #CCC;
+               border-radius: 1em;
+           }
+		   </style>
+     </head>
+<body  bgcolor="#FFFFFF">
+	 <a href="#">
+<main><b><marquee>BIENVENUE &nbsp;&nbsp;   DANS &nbsp;&nbsp;   SUNU  &nbsp;&nbsp;  SPORT</marquee></b></main>
+<pici1></pici1>
+<pici2></pici2>
+<section><img src="../images/logo.png" height="157" width="165" border="3"></section>
+<section2><h1>NOS PARTENAIRES HISTORIQUES</h1></section2>
+<section3><img src="../images/xbet.jpg" height="80" width="100" border="3"></section3>
+<section4><img src="../images/total.jpg" height="80" width="100" border="3"></section4>
+<section5><img src="../images/free.jpg" height="80" width="100" border="3"></section5>
+<section6><img src="../images/orange.png" height="80" width="100" border="3"></section6>
+<nav><b>
+     
+        <a href="Acceuil.html">Accueil</a>
+    &nbsp;
+        <a href="Football.html">Football</a>
+    &nbsp;
+        <a href="Basket.html">Basketball</a>
+    &nbsp; 
+        <a href="Lutte.html">Lutte</a>
+    &nbsp;
+        <a href="Inscription.html">Inscription</a></b></nav10>
+              <div2><input type='text' name ='recherche' id='recherche' maxlength='10' placeholder='Tapez votre recherche' ></div2>
+              <b><div3><input type="submit" name="valider" value="RECHERCHER"></div3></b>
+          
+</b></nav> 
+
+ <form name="formulaire" method="POST" action="../InsertReservationServlet">
+            <h2>Information client</h2>
+            <tr/>
+            <td> Nom<td/>
+            <td><input type='text' name ='nom' id='nom' maxlength='30' placeholder='votre nom' ><td/>
+            <tr/>
+            <tr>
+                &nbsp; &nbsp;<td> Prenom<td/>
+            <td><input type='text' name ='prenom' id='Prenom' maxlength='30' placeholder='prenom'><td/>
+            <tr/>
+            <tr>
+            <h2>Info Billet</h2>
+            <tr>
+            <td> id billet <td/>
+            <td><input type='text' name ='id_billet' id='id_billet' maxlength='30' placeholder='id billet' ><td/>
+            <tr/>
+            <tr>
+            <td> Numero Siege<td/>
+            <td><input type='text' name ='num_siege' id='num_siege' maxlength='30' placeholder='numero siege'><td/>
+            <tr/><p/>
+            <td>
+            <tr> Date edition:
+            <select name="jj">
+               <option >jours</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                    <option value="21">21</option>
+                    <option value="22">22</option>
+                    <option value="23">23</option>
+                    <option value="24">24</option>
+                    <option value="25">25</option>
+                    <option value="26">26</option>
+                    <option value="27">27</option>
+                    <option value="28">28</option>
+                    <option value="29">29</option>
+                    <option value="30">30</option>
+                    <option value="31">31</option>
+            </select>
+            
+            <select name="mm"  style="width: 60px">
+                    <option >Mois</option>
+                    <option value="1">Janvier</option>
+                    <option value="2">Fevrier</option>
+                    <option value="3">Mars</option>
+                    <option value="4">Avril</option>
+                    <option value="5">Mai</option>
+                    <option value="6">Juin</option>
+                    <option value="7">Juilliet</option>
+                    <option value="8">Aout</option>
+                    <option value="9">Septembre</option>
+                    <option value="10">Octobre</option>
+                    <option value="11">Novembre</option>
+                    <option value="12">Decembre</option>
+                 
+                </select>
+               <select name="aaaa" style="width: 50px">
+                    <option >Annee</option>
+                    <option value="2016">2016</option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    
+                
+                </select>
+                <tr/>
+                <td/>
+            <tr>
+            <td> Montant <td/>
+            <td><input type='text' name ='montant' id='montant' maxlength='30' placeholder='entrer le montant'><td/>
+            <tr/><p/>
+            <tr>
+            <td> poids <td/>
+            <td><input type='text' name ='poids' id='poids' maxlength='30' placeholder='le poids'><td/>
+            <tr/>
+            <tr>
+             &nbsp; &nbsp;<td> Code_L <td/>
+            <td><input type='text' name ='code_l' id='code_l' maxlength='30' placeholder='entrez le code'><td/>
+            <tr/>
+            
+             <h2>Infos Reservation</h2>
+            <div>
+               <tr> 
+            <td> <label> Id Reservation </label><td/>
+            <td> <input type='text' name ='id_r' id='id_r' maxlength='30' placeholder='id reservation' ><td/>
+            <tr/> <p/>
+            <tr>
+            <td> Date de reservation<td/>
+               <select name="jj">
+               <option >jours</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                    <option value="21">21</option>
+                    <option value="22">22</option>
+                    <option value="23">23</option>
+                    <option value="24">24</option>
+                    <option value="25">25</option>
+                    <option value="26">26</option>
+                    <option value="27">27</option>
+                    <option value="28">28</option>
+                    <option value="29">29</option>
+                    <option value="30">30</option>
+                    <option value="31">31</option>
+            </select>
+            
+            <select name="mm"  style="width: 60px">
+                    <option >Mois</option>
+                    <option value="1">Janvier</option>
+                    <option value="2">Fevrier</option>
+                    <option value="3">Mars</option>
+                    <option value="4">Avril</option>
+                    <option value="5">Mai</option>
+                    <option value="6">Juin</option>
+                    <option value="7">Juilliet</option>
+                    <option value="8">Aout</option>
+                    <option value="9">Septembre</option>
+                    <option value="10">Octobre</option>
+                    <option value="11">Novembre</option>
+                    <option value="12">Decembre</option>
+                 
+                </select>
+               <select name="aaaa" style="width: 50px">
+                    <option >Annee</option>
+                    <option value="2016">2016</option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    
+                    
+                
+                </select>
+          
+            <tr/><p/>
+           <tr>
+            <td>Code Reservation <td/>
+            <td><input type='text' name ='code_r' id='code_r' maxlength='30' placeholder='entrer votre mot de passe'><td/>
+            <tr/><p/>
+            <td> Depart De <td/>
+            <td><input type='text' name ='depart_d' id='depart_d' maxlength='30' placeholder='Pays de depart'><td/>
+            <tr/><p/>
+            <tr>
+            <td> Arrivee A <td/>
+            <input type='text' name ='arrivee_a' id='arrivee_a' maxlength='30' placeholder='Pays darrivee'><td/>
+            <tr/><p/>
+            <tr>
+            <td> Nom du Client <td/>
+            <td><input type='text' name ='nom_client' id='nom_client' maxlength='30' placeholder='Entrez votre nom'><td/>
+            <tr/><p/>
+            <tr>
+            <td> id billet <td/>
+            <td><input type='text' name ='id_billet' id='id_billet' maxlength='30' placeholder='Entrer le numero de votre billet'><td/>
+            <tr/><p/>
+            <tr>
+            <td>
+                <input type ='submit' value ='Enregistrer' name='submit2'>
+        
+        <input type ='submit' value ='anuler' name="submit2">
+        <td/>
+        <tr/>
+        </div>
+        </form>
+		<br>
+		<maini1></maini1>
+<fasteri1><h1>A propos</h1></fasteri1>
+<fasteri2><h1>Contactez nous</h1></fasteri2>
+<fasteri3><h1>Suivez nous</h1></fasteri3>
+
+<br>
+
+<paddingi1><p>
+Sunu Sport.com est devenu au fil des années
+le portail numéro 1 en ce qui concerne les
+informations du sport au Sénégal et de la sous-région.
+</p></paddingi1>
+
+<paddingi2><p>
+Service Commercial: +221 77 622 04 28
+Email: SunuSport@gmail.com
+</p></paddingi2>
+
+<paddingi3>
+<a href="http://web.facebook.com" target = "_blank"><img src="..\images\facebook.png"></a>
+<a href="http://www.twiter.com" target = "_blank"><img src="..\images\twiter.png"></a>
+<a href="http://www.instagram.com" target = "_blank"><img src="..\images\instagram.png"></a>
+<a href="https://accounts.google.com" target = "_blank"><img src="..\images\google+.png"></a>
+<a href="http://www.snapchat.com" target = "_blank"><img src="..\images\snapchat.png"></a>    
+</paddingi3>
+
+<maini2><h3><marquee>COPYRIGHT 2020 &nbsp; WWW.SUNU SPORT.COM &nbsp;VIVEZ LA MAGIE DU SPORT</marquee></h3></maini2>
+</body>
+</html>
